@@ -1,2 +1,2 @@
 # Medi-Hub
-An online medicine store created by using JAVA backend
+An online medicine store created by using JAVA backend 😊
